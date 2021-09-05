@@ -1,0 +1,12 @@
+2021-09-06 02:20:32.475960 : 200 : https://alicey.dev/nic/update?host
+2021-09-06 02:20:35.209027 : 200 : https://alicey.dev/nic/update?host
+2021-09-06 02:20:36.481873 : 200 : https://alicey.dev/nic/update?host
+2021-09-06 02:20:37.541887 : 200 : https://alicey.dev/nic/update?host
+2021-09-06 02:21:15.747033 : 200 : https://domains.google.com/nic/update?host
+2021-09-06 02:22:55.465093 : 200 : https://domains.google.com/nic/update?t-center.alicey.dev
+2021-09-06 02:29:28.780911 : 200 : https://domains.google.com/nic/update?t-center.alicey.dev
+2021-09-06 02:31:06.061923 : 200 : https://domains.google.com/nic/update?t-center.alicey.dev
+2021-09-06 02:31:36.363998 : 200 : https://domains.google.com/nic/update?t-center.alicey.dev : notfqdn
+2021-09-06 02:33:59.317880 : 200 : notfqdn : https://domains.google.com/nic/update?t-center.alicey.dev
+2021-09-06 02:34:13.059943 : 200 : good 2001:f71:e20:3100:5d68:da6:5e2f:4e33 : https://domains.google.com/nic/update?hostname=t-center.alicey.dev
+2021-09-06 02:34:30.258996 : 200 : nochg 2001:f71:e20:3100:5d68:da6:5e2f:4e33 : https://domains.google.com/nic/update?hostname=t-center.alicey.dev
