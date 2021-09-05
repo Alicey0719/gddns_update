@@ -2,6 +2,14 @@ from requests.auth import HTTPBasicAuth
 import requests
 import json
 import datetime
+import socket
+import requests.packages.urllib3.util.connection as urllib3_cn
+
+## ipv4使うようにする
+def allowed_gai_family():
+    return socket.AF_INET
+
+urllib3_cn.allowed_gai_family = allowed_gai_family
 
 def saveLog(path, msg):
     with open(path, 'a', encoding='UTF-8') as logfile:
